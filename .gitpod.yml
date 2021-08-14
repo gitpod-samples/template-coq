@@ -3,7 +3,8 @@ image:
 tasks:
   - command: |
       ocaml -version
+      coq -version
     
 vscode:
   extensions:
-    - ocamllabs.ocaml-platform
+    - siegebell.vscoq

@@ -1,12 +1,12 @@
-# A OCaml template on Gitpod
+# A Coq template on Gitpod
 
-This is a [OCaml](https://en.wikipedia.org/wiki/OCaml) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
+This is a [Coq](https://en.wikipedia.org/wiki/Coq) template configured for ephemeral proof management environments on [Gitpod](https://www.gitpod.io/).
 
 ## Next Steps
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-ocaml)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-coq)
 
 ## Get Started With Your Own Project
 
@@ -16,4 +16,4 @@ Click the above "Open in Gitpod" button to start a new workspace. Once you're re
 
 ### An existing project
 
-To get started with OCaml on Gitpod, copy the contents of this foler to your own project. To learn more, please see the [Getting Started](https://www.gitpod.io/docs/getting-started) documentation.
+To get started with Coq on Gitpod, copy the contents of this foler to your own project. To learn more, please see the [Getting Started](https://www.gitpod.io/docs/getting-started) documentation.
